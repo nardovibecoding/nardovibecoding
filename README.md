@@ -5,7 +5,7 @@
 - [claude-voice](https://github.com/nardovibecoding/claude-voice) — hands-free voice control for Claude Code
 - [linkedin-autosloth](https://github.com/nardovibecoding/linkedin-autosloth) — LinkedIn automation Chrome extension
 
-Building apps, tools, and scripts. Logging the journey.
+Building apps, tools, and scripts. Logging the journey on GitHub and X.
 
 **Stack:**
 
