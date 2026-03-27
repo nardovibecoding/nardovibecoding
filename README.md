@@ -1,7 +1,11 @@
 ### Vibecoding with passion. Exploring the possibilities with Claude Code daily. Eyes open for the next PMF.
 
-**Featured:**
-- [claude-curated](https://github.com/nardovibecoding/claude-curated) — 9 production-tested Claude Code skills
+**Claude Code Plugins:**
+- [claude-ops-guard](https://github.com/nardovibecoding/claude-ops-guard) — 12 hooks + 20 MCP tools for enforcement, VPS ops, GitHub sync
+- [claude-curated](https://github.com/nardovibecoding/claude-curated) — 6 production-tested skills: adversarial review, multi-model debate, context audit
+- [claude-content-pipeline](https://github.com/nardovibecoding/claude-content-pipeline) — capture insights, draft tweets, checkpoint sessions
+
+**Other:**
 - [claude-voice](https://github.com/nardovibecoding/claude-voice) — hands-free voice control for Claude Code
 - [linkedin-autosloth](https://github.com/nardovibecoding/linkedin-autosloth) — LinkedIn automation Chrome extension
 
