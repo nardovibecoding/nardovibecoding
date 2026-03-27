@@ -1,4 +1,4 @@
-### Vibecoding with passion. Exploring the possibilities with Claude Code daily. Eyes open for the next PMF.
+### I don't code. I vibecode. Building apps, tools, and systems with Claude Code. Eyes open for the next PMF.
 
 **Claude Code Plugins:**
 - [claude-security-guard](https://github.com/nardovibecoding/claude-security-guard) — 14 hooks + 28 MCP tools for enforcement, security, prompt injection defense
