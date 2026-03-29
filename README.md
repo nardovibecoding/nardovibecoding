@@ -1,4 +1,4 @@
-### I build the parts Anthropic did not ship yet.
+### Building what Claude Code does not have. Yet.
 
 Claude Code is powerful but raw — no guardrails, no mobile access, no voice, no content workflow. I build the plugins that fill those gaps.
 
