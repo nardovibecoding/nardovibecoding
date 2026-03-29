@@ -1,4 +1,4 @@
-### I don't code. I vibecode.
+### I build the parts Anthropic did not ship yet.
 
 Claude Code is powerful but raw — no guardrails, no mobile access, no voice, no content workflow. I build the plugins that fill those gaps.
 
@@ -7,7 +7,7 @@ Claude Code is powerful but raw — no guardrails, no mobile access, no voice, n
 - [quality-gate](https://github.com/nardovibecoding/quality-gate) — 43 hooks that enforce code quality and safety automatically, before anything ships
 
 **Access from Anywhere**
-- [claude-telegram-bridge](https://github.com/nardovibecoding/claude-telegram-bridge) — Control Claude Code from your phone via Telegram — ideas don't wait until you're at your desk
+- [claude-telegram-bridge](https://github.com/nardovibecoding/claude-telegram-bridge) — Control Claude Code from your phone via Telegram — ideas do not wait until you are at your desk
 - [claude-voice](https://github.com/nardovibecoding/claude-voice) — Speak to Claude, hear it back. No typing, no screen, no keys
 
 **Content & Insights**
