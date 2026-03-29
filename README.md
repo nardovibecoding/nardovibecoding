@@ -1,16 +1,24 @@
-### I don't code. I vibecode. Building apps, tools, and systems with Claude Code.
+### I don't code. I vibecode.
 
-**Claude Code Plugins:**
-- [claude-security-guard](https://github.com/nardovibecoding/claude-security-guard) — 14 hooks + 28 MCP tools for enforcement, security, prompt injection defense
-- [claude-skills-curation](https://github.com/nardovibecoding/claude-skills-curation) — 6 skills + 5 hooks: adversarial review, 6-model debate, context audit
-- [claude-social-pipeline](https://github.com/nardovibecoding/claude-social-pipeline) — capture coding insights, draft tweets, track engagement
+Claude Code is powerful but raw — no guardrails, no mobile access, no voice, no content workflow. I build the plugins that fill those gaps.
 
-**Standalone Tools:**
-- [claude-voice](https://github.com/nardovibecoding/claude-voice) — hands-free voice for Claude Code: speak, listen, no keys. macOS + Linux
-- [claude-telegram-bridge](https://github.com/nardovibecoding/claude-telegram-bridge) — control Claude Code from Telegram with full tool access
-- [linkedin-autosloth](https://github.com/nardovibecoding/linkedin-autosloth) — Chrome extension for automated LinkedIn outreach. Proof of concept
+**Safety & Enforcement**
+- [claude-security-guard](https://github.com/nardovibecoding/claude-security-guard) — Stops Claude from force-pushing to main, committing secrets, or running destructive commands by accident
+- [quality-gate](https://github.com/nardovibecoding/quality-gate) — 43 hooks that enforce code quality and safety automatically, before anything ships
 
-**Stack:**
+**Access from Anywhere**
+- [claude-telegram-bridge](https://github.com/nardovibecoding/claude-telegram-bridge) — Control Claude Code from your phone via Telegram — ideas don't wait until you're at your desk
+- [claude-voice](https://github.com/nardovibecoding/claude-voice) — Speak to Claude, hear it back. No typing, no screen, no keys
+
+**Content & Insights**
+- [claude-social-pipeline](https://github.com/nardovibecoding/claude-social-pipeline) — Capture coding insights while you work, draft content without breaking flow
+
+**Reasoning**
+- [claude-skills-curation](https://github.com/nardovibecoding/claude-skills-curation) — One Claude opinion is fine. Six-model debate is better. Adversarial review, context audit, profile switching
+
+**Data Sources (MCP)**
+- [douyin-mcp-py](https://github.com/nardovibecoding/douyin-mcp-py) — Douyin/TikTok China as MCP tools — trends, downloads, transcription. No browser needed.
+- [xiaohongshu-mcp-py](https://github.com/nardovibecoding/xiaohongshu-mcp-py) — XHS/RedNote as MCP tools — search, publish, comment from Claude Code
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
